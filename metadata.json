@@ -1,0 +1,6 @@
+{
+  "name": "Pradeep Housing and Properties",
+  "description": "Official business website for Pradeep Housing and Properties — Real estate plots and residential construction services in Ponneri, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

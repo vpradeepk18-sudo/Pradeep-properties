@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#EAF1F8"/>
+  <rect x="24" y="24" width="752" height="452" rx="12" stroke="#173F6B" stroke-width="2" stroke-dasharray="8 8" fill="#FFFFFF" fill-opacity="0.65"/>
+  <g transform="translate(360, 150)">
+    <rect width="80" height="80" rx="16" fill="#102B50"/>
+    <path d="M20 44L40 26L60 44V62H47V49H33V62H20V44Z" fill="#FFFFFF"/>
+    <path d="M40 19L65 41L61 45.5L40 27L19 45.5L15 41L40 19Z" fill="#35A6A0"/>
+  </g>
+  <text x="400" y="275" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="700" fill="#102B50">Upcoming Real Estate Project Slot</text>
+  <text x="400" y="310" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" font-weight="500" fill="#173F6B">Neutral Placeholder — Ready for Future Project Photographs</text>
+  <text x="400" y="342" text-anchor="middle" font-family="monospace" font-size="13" fill="#35A6A0">assets/images/real-estate/upcoming-project-01.jpg</text>
+</svg>
